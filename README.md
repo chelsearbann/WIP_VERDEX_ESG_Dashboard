@@ -9,6 +9,18 @@ Objective: Make ESG investing transparent and accessible for retail investors.
 
 Project inspired during ESG Fellowship with Impending Bloom. 
 
+**Metrics/KPI's**
+- Overall ESG Score
+
+- Carbon Intensity
+
+- Fossil Fuel Exposure %
+
+- Transparency Score
+
+- Historical Return %
+
+- ESG vs Performance scatter
 
 **Key Dashboard Sections
 **
@@ -49,7 +61,7 @@ d. Impact Breakdown
 
 
 
-**Data Soruces**
+**Data Sources**
 | Data Source        | Use Case                        |
 | ------------------ | ------------------------------- |
 | **Sustainalytics** | ESG fund screener & scores      |
