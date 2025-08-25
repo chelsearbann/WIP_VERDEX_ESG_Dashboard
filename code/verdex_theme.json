@@ -1,1 +1,16 @@
+{
+  "name": "Verdex ESG Theme",
+  "dataColors": ["#5EC57E", "#B8E28A", "#347175", "#BBEED6", "#000000"],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#5EC57E",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": { "solid": { "color": "#000000" } },
+        "fontFamily": "Segoe UI"
+      }
+    }
+  }
+}
 
