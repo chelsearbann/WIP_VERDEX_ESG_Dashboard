@@ -1,0 +1,13 @@
+#prepare data via Python
+
+# Pseudocode: Mapping and aggregating ESG scores
+import pandas as pd
+
+# Merge fund holdings with ESG scores
+merged = pd.merge(holdings_df, esg_scores_df, on='ticker')
+
+# Weighted ESG per fund
+merged['weighted_esg'] = merged['weight'] * merged['esg_score']
+
+# Aggregate to get fund-level score
+fund_esg_scores = merged.groupby('fund_id')['weighted_esg'].sum()
