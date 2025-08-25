@@ -1,15 +1,11 @@
-# ESG_Dashboard_VERDEX
-Objective: Make ESG investing transparent and accessible for retail investors. 
+# VERDEX ESG Dashboard 
 
-- Clear ESG scores
+Objective: Make ESG investing transparent and accessible for retail investors with Clear ESG scores, Carbon impact visibility, and an Investment performance vs ESG tradeoff analysis. 
 
-- Carbon impact visibility
-
-- Investment performance vs ESG tradeoff analysis
-
-Project inspired during ESG Fellowship with Impending Bloom. 
+This project was inspired during an ESG Fellowship with Impending Bloom, August 2025. Original VERDEX Creators: Chelsea Bann, Ashley Zhang, Margaret Huang, Senam Dzakpasu. This Dashboard is a continuation of work by Chelsea Bann only. 
 
 **Metrics/KPI's**
+
 - Overall ESG Score
 
 - Carbon Intensity
@@ -22,8 +18,7 @@ Project inspired during ESG Fellowship with Impending Bloom.
 
 - ESG vs Performance scatter
 
-**Key Dashboard Sections
-**
+**Key Dashboard Sections**
 
 a. Portfolio Overview
 
